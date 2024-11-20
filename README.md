@@ -1,2 +1,2 @@
 # introduction_demo
-introduction to GitHub
+introduction to GitHub.
